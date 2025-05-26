@@ -1,0 +1,14 @@
+{
+  "name": "@test/community",
+  "description": "repo to access test community assets & configs",
+  "scripts": {
+    "test": "jest",
+    "generate:board": "node src/main.js"
+  },
+  "dependencies": {
+    "js-yaml": "^4.1.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
