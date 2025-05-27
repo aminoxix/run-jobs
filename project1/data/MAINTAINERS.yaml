@@ -4,7 +4,7 @@
   slack: U03CNHGEUR1
   twitter: maya_ux_ui
   availableForHire: true
-  isTscMember: true
+  isTscMember: false
   repos:
     - website
     - conference-website
@@ -605,7 +605,7 @@
   repos:
     - website
   githubID: 108233235
-- name: 'Vaishnavi '
+- name: "Vaishnavi "
   github: VaishnaviNandakumar
   isTscMember: false
   repos:
