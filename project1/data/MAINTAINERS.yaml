@@ -4,7 +4,7 @@
   slack: U03CNHGEUR1
   twitter: maya_ux_ui
   availableForHire: true
-  isTscMember: false
+  isTscMember: true
   repos:
     - website
     - conference-website
